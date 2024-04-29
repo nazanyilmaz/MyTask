@@ -8,4 +8,5 @@
    <Project Gif>
 
    
-![Uploading ScreenRecording2024-04-28at10.28.37PM-ezgif.com-optimize.gif…]()
+![ScreenRecording2024-04-28at10 28 37PM-ezgif com-optimize](https://github.com/nazanyilmaz/MyTask/assets/147782488/ca244449-7f00-4d98-9737-af2fa78fda43)
+
